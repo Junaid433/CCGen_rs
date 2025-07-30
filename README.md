@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Junaid433/CCGen_rs/main/assets/logo.png" alt="ccgen_rs logo" width="120" height="120"/>
+  <img src="https://raw.githubusercontent.com/Junaid433/CCGen_rs/master/assets/logo.png" alt="ccgen_rs logo" width="120" height="120"/>
 </p>
 
 <h1 align="center">CCGen_rs</h1>
