@@ -60,13 +60,6 @@ Add `ccgen_rs` to your `Cargo.toml`:
 ccgen_rs = "0.1.0"
 ```
 
-Or, if published on crates.io:
-
-```toml
-[dependencies]
-ccgen_rs = "<latest-version>"
-```
-
 ## Usage
 
 ### Basic Example
